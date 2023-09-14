@@ -12,4 +12,4 @@ python manage.py migrate
 4. Run the development server:
 python manage.py runserver
 
-The API will be accessible at 'hhtp://localhost:8000/api' for POST request and 'http://localhost:8000/api/{user_id}' for GET, UPDATE and DELETE
+The API will be accessible at 'http://localhost:8000/api' for POST request and 'http://localhost:8000/api/{user_id}' for GET, UPDATE and DELETE
